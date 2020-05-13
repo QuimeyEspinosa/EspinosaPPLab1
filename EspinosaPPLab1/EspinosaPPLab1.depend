@@ -1,0 +1,28 @@
+# depslib dependency file v1.0
+1589381702 source:c:\users\quimey\desktop\utn\primer cuatrimestre\programacion-lab i\parciales\espinosapplab1\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"mascotas.h"
+	"trabajos.h"
+	"dataWarehouseVeterinaria.h"
+
+1589374077 c:\users\quimey\desktop\utn\primer cuatrimestre\programacion-lab i\parciales\espinosapplab1\datawarehouseveterinaria.h
+
+1589381450 c:\users\quimey\desktop\utn\primer cuatrimestre\programacion-lab i\parciales\espinosapplab1\mascotas.h
+
+1589381450 source:c:\users\quimey\desktop\utn\primer cuatrimestre\programacion-lab i\parciales\espinosapplab1\mascotas.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"mascotas.h"
+
+1589381827 c:\users\quimey\desktop\utn\primer cuatrimestre\programacion-lab i\parciales\espinosapplab1\trabajos.h
+
+1589381702 source:c:\users\quimey\desktop\utn\primer cuatrimestre\programacion-lab i\parciales\espinosapplab1\trabajos.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"mascotas.h"
+	"trabajos.h"
+
